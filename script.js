@@ -91,5 +91,5 @@ if (pinEntrada === pinOriginal) {
   }
 }
 if (opcion === 2) {
-        alert("Hasta Luego.")
+        alert("Hasta Luego Babos@.")
     }
